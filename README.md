@@ -1,4 +1,4 @@
-Para facilitar a categorização dos modelos de gestão afetiva com base no nível de responsabilidade envolvida, sugiro as seguintes 9 categorias, organizadas de forma crescente de acordo com o grau de responsabilidade afetiva. As descrições foram padronizadas e elaboradas com termos técnicos e uma extensão semelhante para cada perfil.
+Para facilitar a categorização dos modelos de gestão afetiva com base no nível de responsabilidade envolvida, dividimos em 9 categorias, organizadas de forma crescente de acordo com o grau de responsabilidade afetiva.
 
 ### Modelos de Menor Responsabilidade Afetiva
 
